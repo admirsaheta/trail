@@ -6,9 +6,14 @@
 
 <p align="center">
     <a href="https://admirsaheta.com" target="_blank">
-        <img width="300" src="/img/trail-light.png" alt="SurrealDB Logo">
-    </a>
-    <a href="https://admirsaheta.com" target="_blank">
-        <img width="300" src="/img/trail-dark.png" alt="SurrealDB Logo">
+        <img width="300" src="/img/trail-dark.png" alt="Trail Logo">
     </a>
 </p>
+
+<h3 align="center">
+  <a href="https://admirsaheta.com" target="_blank">
+        <img height="15" src="/img/trail-dark.png" alt="Trail Logo">
+    </a>
+   
+    is the ultimate todoist <br> organiser for tomorrow's workflow
+</h3>
