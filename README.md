@@ -11,11 +11,8 @@
 </p>
 
 <h3 align="center">
-  <a href="https://admirsaheta.com" target="_blank">
-        <img height="15" src="/img/trail-dark.png" alt="Trail Logo">
-    </a>
-   
-    is the ultimate todoist <br> organiser for tomorrow's workflow
+    
+  Trail is the ultimate todo <br> organiser for tomorrow's workflow
 </h3>
 
 
