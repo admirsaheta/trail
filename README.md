@@ -17,3 +17,8 @@
    
     is the ultimate todoist <br> organiser for tomorrow's workflow
 </h3>
+
+
+<h3 align="center">Manage easier. &nbsp; Develop faster. &nbsp; Scale quicker.</h3>
+
+<br>
